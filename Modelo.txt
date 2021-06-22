@@ -1,0 +1,6 @@
+Modelo 
+Persona{}
+Cas{}
+Niño{}
+Casa{}
+Mascota{}
